@@ -1,6 +1,6 @@
 {
-  "name": "chronos_web",
-  "short_name": "chronos_web",
+  "name": "Chronos",
+  "short_name": "Chronos",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
